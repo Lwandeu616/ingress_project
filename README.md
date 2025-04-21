@@ -24,7 +24,7 @@ This guide covers the following seven phases for setting up a secured HTTPS conn
 For detailed instructions, clone the repository:
 
 ```bash
-git clone https://github.com/kingsleyzikora/ingress-project.git
+git clone https://github.com/Lwandeu616/ingress_project.git
 ```
 
 ---
